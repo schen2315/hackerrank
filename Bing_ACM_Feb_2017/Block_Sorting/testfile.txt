@@ -1,0 +1,7 @@
+3
+1 5
+a b a a c
+2 7
+b c a a c a a
+3 13
+a b a c a c b b b b c a c
